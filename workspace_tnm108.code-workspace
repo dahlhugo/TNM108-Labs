@@ -1,0 +1,25 @@
+{
+	
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"python.pythonPath": "C:/Users/Hugo/Development/Skola/TNM108/venv_tnm108/Scripts/python.exe"
+		},
+
+		"terminal.integrated.profiles.windows": {
+			"PowerShell": {
+			  "source": "PowerShell",
+			  "icon": "terminal-powershell",
+			  "args": ["-ExecutionPolicy", "Bypass"]
+			}
+		  },
+		"terminal.integrated.defaultProfile.windows": "PowerShell",
+	
+	}
+
+	
+}
